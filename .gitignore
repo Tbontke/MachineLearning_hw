@@ -1,0 +1,5 @@
+/*
+!.gitignore
+*.ipynb
+!311_Trevor*.ipynb
+!*.csv
